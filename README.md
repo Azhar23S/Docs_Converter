@@ -5,7 +5,7 @@ I'm adding the Docs Converter Project to my Portfolio as Python Project.
 
 This 'Docs Converter' is a simple python GUI Project which looks like this:
 
-<p align="center"><img src="https://github.com/Azhar23S/Docs_Converter/blob/main/Docs%20Converter.PNG" alt="Docs Converter" width=301, height=418/></p>
+<p align="center"><img src="https://github.com/Azhar23S/Docs_Converter/blob/main/Docs%20Converter.png" alt="Docs Converter" width=301, height=418/></p>
 
 We can convert 
 - <b>Docx to PDF</b>
