@@ -23,4 +23,4 @@ by selecting a file from local directory.
  
  There are several libraries availabile in phython to convert file formats. We can expand this project to unlimited level.
  
-<img src="https://github.com/Azhar23S/Docs_Converter/blob/main/pdf-to-word.png/>
+<img src="https://github.com/Azhar23S/Docs_Converter/blob/main/pdf-to-word.png"/>
